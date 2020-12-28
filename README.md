@@ -2,7 +2,8 @@
 Hey!
 
 ## Wer bin Ich?
-Ich bin ein Mensch ohne Eigenschaften.
+Ich bin ein 19-jähriger Entwickler und beschäftige mich aktiv mit Technik.\
+Mich interessieren sowohl die Themenbereiche Hardware als auch Software.
 
 ## Wie kann man mich erreichen?
 Ich bin jederzeit über folgende Social-Media Plattformen erreichbar:
