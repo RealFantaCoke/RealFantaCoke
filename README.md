@@ -30,6 +30,6 @@ Geplante Projekte sind derzeit:
 
 ### ```Kontaktaufnahme:```
 **Discord**: CrazyMemeCoke#6617\
-**E-Mail**: CrazyMemeCoke@gmail.com
-**Twitter**: CrazyBackupCoke
-**Telegram**: CrazyMemeCoke
+**E-Mail**: CrazyMemeCoke@gmail.com\
+**Twitter**: CrazyBackupCoke\
+**Telegram**: CrazyMemeCoke\
