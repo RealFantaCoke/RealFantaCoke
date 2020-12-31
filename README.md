@@ -2,30 +2,34 @@
 Hey!
 
 ## Wer bin Ich?
-Ich bin ein 19-jähriger Entwickler und beschäftige mich aktiv mit Technik.\
+Ich bin ein Entwickler, offen für alles und beschäftige mich aktiv mit Technik.\
 Mich interessieren sowohl die Themenbereiche Hardware als auch Software.
 
-## Wie kann man mich erreichen?
-Ich bin jederzeit über folgende Social-Media Plattformen erreichbar:
+## Welche Programmiersprachen beherrsche Ich?
 
-- Telegram: @CrazyMemeCoke
-- Twitter: @CrazyBackupCoke
-- Discord: CrazyMemeCoke#6617
+- Java / JavaScript | seit 2015 | gut
+- Python | seit 2016 | mittelmäßig
+- Dart | seit Anfang 2020 | sehr gut
+- Visual Basic | seit Anfang 2016 | mittelmäßig
 
-## Welche Programmiersprachen denke Ich, zu können?
+## Welche Programme verwende Ich im alltäglichen Gebrauch?
 
-- Java / JavaScript | seit 2015, aktiv aber erst seit 2020
-- Python | seit 2016
-- Dart | seit Anfang 2020, hauptsächlich mit Flutter
-- HTML (I know ... don't kill me c:) | seit 2015
+- **WinSCP** & **MobaXterm** | Serververwaltung via SFTP & SSH
+- **IntelliJ** & **Android Studio** | Anwendungsentwicklung
+- **Bitwarden** & **Authy** | Sicherheit bei Anmeldungen in Konten
+- **Steam** | Bibliothek versch. Anwendungen und Games
 
-## Welche Programme verwende Ich?
+## Was sind aktuelle Projekte, was ist weiteres geplant?
+Ich arbeite derzeit aktiv an einer Modifikation für das Open-Sandbox-Game Minecraft mit dem Namen "Ambien"
 
-- WinSCP & MobaXterm | Serververwaltung via SFTP & SSH
-- IntelliJ & Android Studio | Anwendungsentwicklung
+Zusätzlich stecke Ich relativ viel Arbeit in das Projekt "MasterOf13FPS", welches sich mit den Themen\
+Anwendungsentwicklung, Technik & Modifikationen für Games beschäftigt.
 
-## Was plane Ich für die Zukunft?
-Ich arbeite derzeit aktiv an einer Modifikation für das Open-Sandbox-Game "Minecraft".
+Geplante Projekte sind derzeit:
+- ein Forum für die Seite "CheatSquad" von SubwayZ
 
-Zusätzlich stecke Ich relativ viel Arbeit in das Nebenprojekt MasterOf13FPS, welches sich mit den Themen\
-Anwendungsentwicklung und Modifikationen für Games beschäftigt.
+### ```Kontaktaufnahme:```
+**Discord**: CrazyMemeCoke#6617\
+**E-Mail**: CrazyMemeCoke@gmail.com
+**Twitter**: CrazyBackupCoke
+**Telegram**: CrazyMemeCoke
