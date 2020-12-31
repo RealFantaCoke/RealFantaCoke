@@ -5,8 +5,8 @@ Hey!
 Ich bin ein Entwickler, offen für alles und beschäftige mich aktiv mit Technik.\
 Mich interessieren sowohl die Themenbereiche Hardware als auch Software.
 
-Zudem habe Ich im Jahr 2014 den Themenbereich "Anwendungsentwicklung" (umgangss. auch "Coding" genannt) für mich entdeckt,\
-da es mir viel Freude bereitet, für den alltäglichen Gebrauch Programme oder Modifikationen für bereits bestehende\
+Zudem habe Ich im Jahr 2014 den Themenbereich "Anwendungsentwicklung" (umgangssprachlich auch "Coding" genannt) für mich\
+entdeckt, da es mir viel Freude bereitet, für den alltäglichen Gebrauch Programme oder Modifikationen für bereits bestehende\
 Anwendungen zu entwickeln und diese aktiv in meinem Workflow einzusetzen.
 ## Welche Programmiersprachen beherrsche Ich?
 
