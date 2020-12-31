@@ -7,10 +7,10 @@ Mich interessieren sowohl die Themenbereiche Hardware als auch Software.
 
 ## Welche Programmiersprachen beherrsche Ich?
 
-- Java / JavaScript | seit 2015 | gut
-- Python | seit 2016 | mittelmäßig
-- Dart | seit Anfang 2020 | sehr gut
-- Visual Basic | seit Anfang 2016 | mittelmäßig
+- **Java** / **JavaScript** | seit 2015 | gut
+- **Python** | seit 2016 | mittelmäßig
+- **Dart** | seit Anfang 2020 | sehr gut
+- **Visual Basic** | seit Anfang 2016 | mittelmäßig
 
 ## Welche Programme verwende Ich im alltäglichen Gebrauch?
 
@@ -32,4 +32,4 @@ Geplante Projekte sind derzeit:
 **Discord**: CrazyMemeCoke#6617\
 **E-Mail**: CrazyMemeCoke@gmail.com\
 **Twitter**: CrazyBackupCoke\
-**Telegram**: CrazyMemeCoke\
+**Telegram**: CrazyMemeCoke
